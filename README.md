@@ -1,7 +1,7 @@
 BIC21203_Web Development Lab 4a_JavaScript
-Name: Ler Jing Jing
-Student ID: AI240115
-Course: BIC21203 Web Development
+## Name: Ler Jing Jing
+## Student ID: AI240115
+## Course: BIC21203 Web Development
 
 ## Lab Description
 This lab focuses on JavaScript functions, event handling, input validation, loops and DOM manipulation.
